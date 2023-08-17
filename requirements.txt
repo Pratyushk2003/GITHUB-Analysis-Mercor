@@ -3,4 +3,5 @@ requests
 openai
 radon
 radon.metrics
-flake8 mccabe
+flake8
+mccabe
