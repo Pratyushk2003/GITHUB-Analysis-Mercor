@@ -3,8 +3,6 @@ import streamlit as st
 import requests
 import subprocess
 import openai
-st.set_option('browser.gatherUsageStats', False)
-
 # Set up your OpenAI API credentials
 openai.api_key = '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'
 def get_user_repositories(username):
