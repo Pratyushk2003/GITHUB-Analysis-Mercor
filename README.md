@@ -1,4 +1,8 @@
 # GITHUB-Analysis-Mercor
+
+## Github Automated Analysis Project Overview:
+In this project, you will build a Python-based tool that, when given a GitHub user's name, returns the most technically complex and challenging repository from that user's profile. The tool will use GPT and LangChain to assess each repository individually before determining the most technically challenging one.
+
 The following features are used to determine the most complex repository among the repository present on GitHub of that user:
 
 1. Cyclomatic_complexity
