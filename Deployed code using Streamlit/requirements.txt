@@ -1,4 +1,4 @@
-Streamlit==0.89.0
+Streamlit
 requests
 openai
 radon
