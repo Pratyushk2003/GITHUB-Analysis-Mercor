@@ -1,7 +1,5 @@
 Streamlit
 requests
 openai
-radon
-radon.metrics
 flake8
 mccabe
