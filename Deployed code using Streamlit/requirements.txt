@@ -1,6 +1,6 @@
+Streamlit==0.89.0
 requests
 openai
 radon
 radon.metrics
 flake8 mccabe
-streamlit
