@@ -35,7 +35,7 @@ Just go to Github_Automated_Analysis.ipnb file and open it in colab there you ca
 Or 
 Just follow the video
 
-![Watch the video](https://drive.google.com/file/d/1hwx1Qzo1xJBrsAVUHamiZo79y47WyavX/view?usp=sharing)
+[Click here to watch the video](https://drive.google.com/file/d/1hwx1Qzo1xJBrsAVUHamiZo79y47WyavX/view?usp=sharing)
 
 
 
