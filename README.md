@@ -36,3 +36,5 @@ Or
 Just follow the video
 
 [Click here to watch the video]([https://www.youtube.com/watch?v=your_video_id](https://www.youtube.com/watch?v=LCoEX1sMjjk)https://www.youtube.com/watch?v=LCoEX1sMjjk)
+
+LINK: https://www.youtube.com/watch?v=LCoEX1sMjjk
