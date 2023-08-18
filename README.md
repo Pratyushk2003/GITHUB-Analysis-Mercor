@@ -5,17 +5,17 @@ In this project, you will build a Python-based tool that, when given a GitHub us
 
 The following features are used to determine the most complex repository among the repository present on GitHub of that user:
 
-1. Cyclomatic_complexity
-2. Coupling_score
-3. Cohesion_score
-4. Issue_complexity
-5. Code_smells_score
-6. Documentation_score
-7. Technical_debt_score
-8. Contributor_activity_score
-9. Stargazers_count
-10. Forks_count
-11. Size
+1. Cyclomatic Complexity: Measures the complexity of the code's control flow.
+2. Coupling Score: Evaluates the interdependence between components within the repository.
+3. Cohesion Score: Assesses the degree of relatedness among elements in the codebase.
+4. Issue Complexity: Analyzes the complexity and depth of the repository's issues.
+5. Code Smells Score: Identifies potential code quality issues and anti-patterns.
+6. Documentation Score: Gauges the comprehensiveness and clarity of the documentation.
+7. Technical Debt Score: Highlights the accumulated technical debt within the repository.
+8. Contributor Activity Score: Measures the level of engagement and contributions from collaborators.
+9. Stargazers Count: Indicates the popularity and interest in the repository.
+10. Forks Count: Reflects the number of times the repository has been forked by others.
+11. Size: Takes into account the overall size of the repository.
 
 To Run app.py file run the below command
 
