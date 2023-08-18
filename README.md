@@ -25,7 +25,7 @@ To Run app.py file run the below command
 
 https://app-analysis-mercor-iljzwwbfhqwuititwpq6s7.streamlit.app/
 
-Result:
+# Result
 ![image](https://github.com/Pratyushk2003/GITHUB-Analysis-Mercor/assets/77561223/bb758de5-bb8d-402e-a6ca-0bdbbe84464e)
 
 ![image](https://github.com/Pratyushk2003/GITHUB-Analysis-Mercor/assets/77561223/b9228117-4277-4960-9eb9-501f2a2f616b)
