@@ -21,7 +21,9 @@ To Run app.py file run the below command
 
     streamlit run app.py
 
-Deployed link: https://app-analysis-mercor-iljzwwbfhqwuititwpq6s7.streamlit.app/
+# Deployed link
+
+https://app-analysis-mercor-iljzwwbfhqwuititwpq6s7.streamlit.app/
 
 Result:
 ![image](https://github.com/Pratyushk2003/GITHUB-Analysis-Mercor/assets/77561223/bb758de5-bb8d-402e-a6ca-0bdbbe84464e)
