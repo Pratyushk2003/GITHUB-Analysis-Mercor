@@ -4,7 +4,7 @@ import requests
 import subprocess
 import openai
 # Set up your OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = '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'
 def get_user_repositories(username):
     url = f'https://api.github.com/users/{username}/repos'
     headers = {'Authorization': f'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'}
